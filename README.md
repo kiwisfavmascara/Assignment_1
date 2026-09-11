@@ -11,7 +11,7 @@ My answer, in one sentence: I am not learning programming to compete with AI
 at writing code. I am learning it to understand and control the systems behind
 my work.
 
-Processing: a result is not an understanding
+## Processing: a result is not an understanding
 
 Those Processing demos worked. I typed what I wanted in plain English, code came
 back, I pressed run, and most of the time I got roughly the visual I had in
