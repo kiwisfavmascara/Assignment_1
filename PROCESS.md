@@ -1,25 +1,41 @@
 # PROCESS.md — how I used AI
 
-The brief asks me to say what I used, what I kept, and what I rejected, and to do
-it honestly rather than defensively. Straight answer.
+The brief says to be honest about this rather than defensive, so here is the
+actual timeline.
 
-**Tools used.** An AI assistant (WorkBuddy) did the mechanical setup: it created
-this public repository, added `.github/workflows/check.yml` so GitHub runs the
-assignment check on every push, and ran `check.py` locally so I could see which
-lines were still red. It also drafted the first version of `README.md` — the text
-I am editing now.
+**September 10.** I set up this repository. I worked with an AI assistant on the
+mechanical side: creating the repo, adding `.github/workflows/check.yml` so
+GitHub runs the assignment check on every push, and running `check.py` locally
+to see which lines were still red. That same day a first skeleton draft of the
+essay went in, mostly AI-written, mostly to have something to react to. I did
+not like most of it — see below.
 
-**What I kept.** The *Describing is not specifying* section. It anchors the
-abstract question to one concrete line from week two — `damage = chaos * (row /
-ROWS) ** 2` — and argues that the interesting decision is what the rule should
-be, not typing it out. That is close to what I already thought, and having it
-written down gave me something to edit instead of a blank page.
+**September 11.** Today I threw out the skeleton and rewrote the essay around
+**my own outline**, which I had written beforehand in Chinese. The argument, the
+structure, and both examples are mine:
 
-**What I rejected.** The obvious opening — "technology is changing rapidly, so
-we should learn to use it well". The brief calls that generic futurism and marks
-it down; it says nothing I could actually defend, so it is gone. I also kept out
-any reference I could not verify, because the brief's warning about confident,
-well-formatted, fake citations is the one mistake here I do not want to make.
+- the **Processing** example: I have used AI to help me build small demos, the
+  code ran, but I could not answer which part controlled what, and modifying
+  anything was a struggle;
+- the **TouchDesigner** example: node-based tools cover my basic needs, but
+  without coding knowledge I cannot build the more complex interactions and
+  systems I want — the limit is not ideas, it is not knowing how to turn an
+  idea into a system.
 
-**Still mine to finish.** The concrete example from my own practice, and the last
-pass in my own voice. Drafted text is a starting point, not a submission.
+**What the AI did on this version:** polishing my outline into full English
+prose, suggesting wording where my drafts were too literal, and checking the
+markdown formatting. Every claim in the essay comes from my own experience; I
+checked that the references are real (they are all linked from the assignment
+brief or are the actual homepages of the tools).
+
+**What I kept.** The verb list — *read, understand, modify, evaluate, extend* —
+in the second-to-last section. It compressed my whole point about what still
+matters after AI into five words, better than my original sentence did.
+
+**What I rejected.** Two things. First, the draft's original conclusion,
+"programming will always be important" — exactly the comfortable, unfalsifiable
+sentence the brief warns against, and not what I actually believe. I replaced it
+with the shift-from-writing-to-understanding version. Second, a suggested
+section about photography almost killing painting in the 19th century: it is a
+nice parallel, but it is not from my practice, and the brief is explicit that
+specific beats general.
