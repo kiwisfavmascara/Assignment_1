@@ -1,17 +1,17 @@
 # Why are we here?
 
-*Why I am learning programming in 2026, when a machine will write code for me.*
+Why I am learning programming in 2026, when a machine will write code for me.
 
-I know AI can write code, because I have already let it. Last year I asked an
+I know AI can write code, because I have already tried it. Last year I asked an
 assistant to build small demos for me in [Processing](https://processing.org),
 and it did. So the question behind this course — why are we here — has never
 felt abstract to me. It felt personal the first week.
 
-My answer, in one sentence: **I am not learning programming to compete with AI
+My answer, in one sentence: I am not learning programming to compete with AI
 at writing code. I am learning it to understand and control the systems behind
-my work.**
+my work.
 
-## Processing: a result is not an understanding
+Processing: a result is not an understanding
 
 Those Processing demos worked. I typed what I wanted in plain English, code came
 back, I pressed run, and most of the time I got roughly the visual I had in
