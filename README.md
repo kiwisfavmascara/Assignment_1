@@ -12,24 +12,19 @@ my work.
 ## Processing: a result is not an understanding
 
 I learnt some basic knowledge of p5.js in Processing three years ago so I can 
-understand some code, but really limited. Last year I designed a skill that the 
+understand some code, but really limited. Last year I designed a function that the 
 laptop camera can spot the user's posture and alert when the posture is unhealthy. 
 Those Processing demos worked. I typed what I wanted in plain language, code came back, 
-I pressed run, and most of the time I got roughly the visual I had in
-mind. By any practical test, the AI had done the job.
+I pressed run. 
 
-The trouble started whenever I tried to change something. Which part controlled
-the speed? Why did my edit move the colour instead of the motion? What should I
-touch to take the piece further? I could not answer any of that. I had a
-working sketch and no idea how it worked, and no amount of re-prompting fixed
-it, because the missing thing was not a better result. It was understanding.
+The trouble started whenever I tried to fix the coding because it didn't work like I expected.
+I didn't understand how it actually worked. Most of the time I spent talking to AI to fix the coding
+because I could only recognize some of the visual part, like the color part. 
 
-That is the distinction I keep coming back to: **getting a result and
-understanding a result are not the same thing.** AI can hand me the first one
-reliably now. It cannot transfer the second, because understanding is not a
-text output — it is knowing what the parts are and why they sit together this
-way. Without it, every small change is a new request to the machine instead of
-a decision of mine.
+That is the distinction I keep coming back to: getting a result and
+understanding a result are not the same thing. Obviously, the AI tools 
+get smarter and more powerful with the development of technology. But if I
+don't study the programming I would never know how it work.
 
 ## TouchDesigner: the tool quietly becomes a boundary
 
@@ -37,11 +32,11 @@ a decision of mine.
 system lets me build visual work with almost no code, and honestly, for most of
 my basic ideas it is enough.
 
-But every time I wanted something more complex — an interaction where several
-parts respond to each other, a small system with conditions and feedback — I ran
-into the edge of my coding knowledge. The frustrating part is that it was
-rarely a lack of ideas. I just did not know how to translate an idea into a
-system. My work kept stopping at what the software allowed, rather than at what
+But every time I wanted something more complex, like an interaction where several
+parts respond to each other, I ran into the edge of my coding knowledge. 
+The frustrating part is that it was rarely a lack of ideas. 
+I just did not know how to translate an idea into a system. 
+My work kept stopping at what the software allowed, rather than at what
 I wanted to make.
 
 This is what Ihde means when he says a technology is never a neutral tool: it
@@ -59,7 +54,7 @@ that sentence. It needs rules, relationships, conditions, parameters.
 Programming is the knowledge of what lives between those two sentences: how a
 visual or interaction system is actually produced. It moves my thinking from "I
 want this effect" to "what makes this effect happen?" And once I can answer
-that second question, I can prompt AI for the effect *and* judge whether what
+that second question, I can prompt AI for the effect and judge whether what
 comes back is the right version of it — not just a plausible one.
 
 ## What I still need, if AI keeps improving
@@ -69,8 +64,8 @@ traditional coding skills will genuinely matter less. I do not expect to become
 a professional programmer, and I do not think this course is asking me to be
 one.
 
-But one list of verbs does not disappear: **read, understand, modify, evaluate,
-extend.** All of them act on code that already exists, and AI has made them more
+But one list of verbs does not disappear: read, understand, modify, evaluate,
+extend. All of them act on code that already exists, and AI has made them more
 important, not less — somebody still has to know whether the generated thing
 does what was actually asked, and what to touch when it does not. My Processing
 demos were exactly that situation, and I was on the wrong side of it.
