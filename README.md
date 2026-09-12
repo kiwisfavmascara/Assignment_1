@@ -1,7 +1,5 @@
 # Why are we here?
 
-Why I am learning programming in 2026, when a machine will write code for me.
-
 I know AI can write code, because I have already tried it. Last year I asked an
 assistant to build small demos for me in [Processing](https://processing.org),
 and it did. So the question behind this course — why are we here — has never
@@ -13,7 +11,7 @@ my work.
 
 ## Processing: a result is not an understanding
 
-Those Processing demos worked. I typed what I wanted in plain English, code came
+I designed a skill that the laptop camera can spot the user's posture and alert when the posture is unhealthy. Those Processing demos worked. I typed what I wanted in plain language, code came
 back, I pressed run, and most of the time I got roughly the visual I had in
 mind. By any practical test, the AI had done the job.
 
