@@ -11,8 +11,11 @@ my work.
 
 ## Processing: a result is not an understanding
 
-I designed a skill that the laptop camera can spot the user's posture and alert when the posture is unhealthy. Those Processing demos worked. I typed what I wanted in plain language, code came
-back, I pressed run, and most of the time I got roughly the visual I had in
+I learnt some basic knowledge of p5.js in Processing three years ago so I can 
+understand some code, but really limited. Last year I designed a skill that the 
+laptop camera can spot the user's posture and alert when the posture is unhealthy. 
+Those Processing demos worked. I typed what I wanted in plain language, code came back, 
+I pressed run, and most of the time I got roughly the visual I had in
 mind. By any practical test, the AI had done the job.
 
 The trouble started whenever I tried to change something. Which part controlled
