@@ -21,9 +21,10 @@ because I thought it a little bit redundant. I revised the AI part and explained
 with *Processing* and *TD* in the past.
 
 **September 13.**
-I basically rewrote the whole thing today because the earlier versions were almost done by AI.
+I basically rewrote the whole thing today because the earlier versions were almost written by AI.
 I added more details in my two examples, *Processing* and *TD* . Then I changed the content of 
 *Describing is not specifying* using an example of apple. Also, I rewrote the *What I 
 still need, if AI keeps improving* part. I added a part called *What I wanna do in the future* 
 and introduced an artist called *Yoshi Sodeoka*. At the end I used ChatGPT to help me 
-to correct some grammatical errors.
+to correct some grammatical errors. The final ideas, structure, examples, and revisions were my own, 
+while AI was mainly used at the beginning for brainstorming, technical support, and at the end grammar correction.
